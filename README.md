@@ -1,3 +1,9 @@
+# Problem Solving Practice Repository
+
+> Daily problem-solving practice to master coding fundamentals and DSA
+
+---
+
 ## 🧠 Problem Solving Practice
 
 This section contains my daily problem-solving practice using JavaScript.
