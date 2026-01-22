@@ -6,7 +6,7 @@
 
 ## 🧠 Problem Solving Practice
 
-This section contains my daily problem-solving practice using JavaScript.
+This section contains my daily problem-solving practice using programming languages.
 
 ### What I practice here:
 - Basic logic building
