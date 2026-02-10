@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main() {
    int series,d,s;
       printf("enter your total series :");
